@@ -37,7 +37,6 @@
 
 <h2 align="left">Tech Stack</h2>
 <br>
-<br>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

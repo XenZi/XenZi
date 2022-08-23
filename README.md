@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 <br>
-<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenZi" />
 </div>
